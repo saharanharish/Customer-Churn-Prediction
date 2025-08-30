@@ -32,11 +32,12 @@ Key highlights:
 ---
 
 ## 🔄 Workflow
-1. Imported and cleaned the raw dataset in **SQL Server** (handled null values, replacements, formatting).  
-2. Connected **Power BI** with SQL Server for further analysis.  
-3. Created **summary dashboards** highlighting customer behavior and churn distribution.  
-4. Developed a **Machine Learning model** using Python for churn prediction.  
-5. Derived **business insights** to improve customer retention strategies.  
+1. **Data Preparation (SQL Server):** Imported the raw dataset into SQL Server, performed data cleaning by handling null values, replacing inconsistent entries, and formatting fields for consistency.  
+2. **Data Integration (Power BI):** Connected SQL Server with Power BI to seamlessly fetch the cleaned dataset for visualization and reporting.  
+3. **Exploratory Analysis (Power BI):** Designed interactive dashboards to analyze customer demographics, service usage patterns, and churn distribution across segments.  
+4. **Model Development (Python):** Trained a Machine Learning model (classification) to predict customer churn using features such as tenure, services, and billing details.  
+5. **Insight Generation (Business Strategy):** Combined dashboard findings and model predictions to derive customer retention strategies, such as targeting high-risk segments and offering personalized interventions.  
+
 
 ---
 
