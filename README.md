@@ -46,7 +46,7 @@ The dashboard includes:
 - **Customer Summary Page** – highlighting churn, demographics, and service usage.  
 - **KPI Visualizations** – key business metrics related to customer churn.  
 
-_Add sample screenshots here 👇_  
+Power BI DashBoard👇_  
 ![Power BI Dashboard](https://github.com/saharanharish/Customer-Churn-Prediction/raw/1370cc6202413574de01d548664305cbb9834c9a/powerbidashboard.png)
 
 
@@ -72,6 +72,6 @@ _Add sample screenshots here 👇_
 - Provided **actionable insights** for customer retention.
 
 - ### 📸 Visual Results
-![image alt]()
+![Power BI Dashboard](https://github.com/saharanharish/Customer-Churn-Prediction/raw/1370cc6202413574de01d548664305cbb9834c9a/powerbidashboard.png)
 ---
 
