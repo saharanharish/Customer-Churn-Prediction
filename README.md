@@ -72,6 +72,6 @@ Power BI DashBoard👇_
 - Provided **actionable insights** for customer retention.
 
 - ### 📸 Visual Results
-![Power BI Dashboard](https://github.com/saharanharish/Customer-Churn-Prediction/raw/1370cc6202413574de01d548664305cbb9834c9a/powerbidashboard.png)
+![Power BI Dashboard](https://github.com/saharanharish/Customer-Churn-Prediction/blob/d37641f816bb9c1c0e9562bdf065b1d71509b313/Results.png)
 ---
 
