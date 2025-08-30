@@ -47,7 +47,8 @@ The dashboard includes:
 - **KPI Visualizations** – key business metrics related to customer churn.  
 
 _Add sample screenshots here 👇_  
-![image alt]("https://github.com/saharanharish/Customer-Churn-Prediction/blob/1370cc6202413574de01d548664305cbb9834c9a/powerbidashboard.png")  
+![Power BI Dashboard](https://github.com/saharanharish/Customer-Churn-Prediction/raw/1370cc6202413574de01d548664305cbb9834c9a/powerbidashboard.png)
+
 
 
 ---
