@@ -32,7 +32,7 @@ Key highlights:
 ---
 
 ## 🔄 Workflow
-1. **Data Preparation (SQL ):** Imported the raw dataset into Postgre SQL, performed data cleaning by handling null values, replacing inconsistent entries, and formatting fields for consistency.  
+1. **Data Preparation (SQL ):** Imported the raw dataset into Postgre SQL, performed data cleaning by handling null values, replacing inconsistent entries, and formatting fields for consistency.Also Performed the similar operation in Python/Pandas only for the model training.  
 2. **Data Integration (Power BI):** Connected SQL Server with Power BI to seamlessly fetch the cleaned dataset for visualization and reporting.  
 3. **Exploratory Analysis (Power BI):** Designed interactive dashboards to analyze customer demographics, service usage patterns, and churn distribution across segments.  
 4. **Model Development (Python):** Trained a Machine Learning model (classification) to predict customer churn using features such as tenure, services, and billing details.  
