@@ -5,7 +5,7 @@ This project focuses on analyzing a **telecommunication retail dataset** to unde
 The goal is to derive business insights that can help in decision-making, customer retention, and overall business growth.  
 
 Key highlights:
-- Performed **data cleaning and preprocessing** in SQL Server and Python/Pandas.  
+- Performed **data cleaning and preprocessing** in Postgre SQL  and Python/Pandas.  
 - Built a **Power BI Dashboard** to summarize customer data and churn patterns.  
 - Implemented a **Machine Learning model** to predict churn likelihood.  
 - Extracted **business insights** to support strategic decisions.  
@@ -32,7 +32,7 @@ Key highlights:
 ---
 
 ## 🔄 Workflow
-1. **Data Preparation (SQL Server):** Imported the raw dataset into SQL Server, performed data cleaning by handling null values, replacing inconsistent entries, and formatting fields for consistency.  
+1. **Data Preparation (SQL ):** Imported the raw dataset into SQL Server, performed data cleaning by handling null values, replacing inconsistent entries, and formatting fields for consistency.  
 2. **Data Integration (Power BI):** Connected SQL Server with Power BI to seamlessly fetch the cleaned dataset for visualization and reporting.  
 3. **Exploratory Analysis (Power BI):** Designed interactive dashboards to analyze customer demographics, service usage patterns, and churn distribution across segments.  
 4. **Model Development (Python):** Trained a Machine Learning model (classification) to predict customer churn using features such as tenure, services, and billing details.  
